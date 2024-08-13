@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Aug 13 20:08:50 2024
+
+@author: asus
+"""
+
+pip install selenium
